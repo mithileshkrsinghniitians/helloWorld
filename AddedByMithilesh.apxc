@@ -6,5 +6,6 @@ public class HelloWorldApex {
 	public static void print(){
 	// Message Display 
 	System.debug(HelloWorld.message);
+	System.debug('Exit');
 	}
 }
