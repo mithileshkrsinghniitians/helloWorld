@@ -28,6 +28,5 @@ public class ThinkingInApex_Dan
        if(! ocrOpportunities.contains(op.Id))
        op.addError('Opportunity Contact Role is required to create an Opportunity');
       }
-      
   }
 }
